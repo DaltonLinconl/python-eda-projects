@@ -29,9 +29,8 @@ Formação em Engenharia da Computação, com interesse em transformar dados em 
 
 📄 Notebook: `notebooks/eda_netflix.ipynb`
 
----
 
-### 🔹 EDA – Vendas (exemplo)
+### 🔹 EDA – Vendas
 - Limpeza e preparação de dados
 - Análise de tendências temporais
 - Identificação de padrões de venda
@@ -39,6 +38,27 @@ Formação em Engenharia da Computação, com interesse em transformar dados em 
 
 📄 Notebook: `notebooks/eda_sales.ipynb`
 
+📘 EDA – Book Sales
+
+- Análise descritiva de vendas de livros
+- Tratamento de dados faltantes e inconsistências
+- Visualização da distribuição de vendas e popularidade
+- Identificação de padrões por autor, gênero e período
+
+🎬 EDA – Movie Profits
+
+- Análise descritiva de orçamentos, receitas e lucros de filmes
+- Limpeza e preparação dos dados financeiros
+- Visualização de relações entre orçamento, receita e lucro
+- Insights sobre fatores associados ao sucesso financeiro de filmes
+
+🏐 EDA – Volleyball Nations League (Masculino)
+
+- Análise descritiva de dados da Volleyball Nations League masculina
+- Exploração de estatísticas por seleções e partidas
+- Visualização de distribuições e comparações de desempenho
+- Identificação de padrões e tendências competitivas entre equipes
+- 
 ---
 
 ## 📌 Principais habilidades demonstradas
