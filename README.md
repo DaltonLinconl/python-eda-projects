@@ -27,7 +27,7 @@ Formação em Engenharia da Computação, com interesse em transformar dados em 
 - Visualização de distribuições e correlações
 - Insights sobre popularidade e categorias
 
-📄 Notebook: `notebooks/eda_netflix.ipynb`
+📄 Notebook: `EDA_Netflix_top10/EDA_netflix_top10.ipynb`
 
 
 ### 🔹 EDA – Vendas
@@ -36,7 +36,7 @@ Formação em Engenharia da Computação, com interesse em transformar dados em 
 - Identificação de padrões de venda
 - Visualizações para suporte à tomada de decisão
 
-📄 Notebook: `notebooks/eda_sales.ipynb`
+📄 Notebook: `SuplementSales/EDA_suplement.ipynb`
 
 📘 EDA – Book Sales
 
@@ -45,6 +45,9 @@ Formação em Engenharia da Computação, com interesse em transformar dados em 
 - Visualização da distribuição de vendas e popularidade
 - Identificação de padrões por autor, gênero e período
 
+  
+📄 Notebook: `eda-booksales.ipynb`
+
 🎬 EDA – Movie Profits
 
 - Análise descritiva de orçamentos, receitas e lucros de filmes
@@ -52,13 +55,17 @@ Formação em Engenharia da Computação, com interesse em transformar dados em 
 - Visualização de relações entre orçamento, receita e lucro
 - Insights sobre fatores associados ao sucesso financeiro de filmes
 
+📄 Notebook: `movie-profits.ipynb`
+
 🏐 EDA – Volleyball Nations League (Masculino)
 
 - Análise descritiva de dados da Volleyball Nations League masculina
 - Exploração de estatísticas por seleções e partidas
 - Visualização de distribuições e comparações de desempenho
 - Identificação de padrões e tendências competitivas entre equipes
-- 
+
+📄 Notebook: `vnlmen.ipynb`
+
 ---
 
 ## 📌 Principais habilidades demonstradas
